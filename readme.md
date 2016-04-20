@@ -2,8 +2,8 @@
 
 ## Development
 
-			$ middleman server
+	$ middleman server
 
 ## Build and deploy
 
-			$ rake build
+	$ rake build
