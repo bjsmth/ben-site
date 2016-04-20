@@ -1,9 +1,9 @@
 # Ben Site
 
-## Development
+### Development
 
 	$ middleman server
 
-## Build and deploy
+### Build and deploy
 
 	$ rake build
