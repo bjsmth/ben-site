@@ -36,6 +36,11 @@ end
 
 # Build-specific configuration
 configure :build do
+	
+  # Exclude any vendor components (bower or custom builds) in the build
+  ignore 'stylesheets/vendor/*'
+  ignore 'javascripts/vendor/*'
+
   # Minify CSS on build
   # activate :minify_css
 

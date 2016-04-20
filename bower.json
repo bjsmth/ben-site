@@ -1,0 +1,22 @@
+{
+  "name": "stie",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bjsmth/ben-site",
+  "authors": [
+    "bjsmth <bj7smth@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-cookie": "latest",
+    "bootstrap-sass": "latest"
+  }
+}
+
